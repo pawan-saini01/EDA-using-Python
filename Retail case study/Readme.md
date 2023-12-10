@@ -24,9 +24,13 @@ o This book has three sheets (Customer, Transaction, Product Heirarchy)
 o Customer: Customers information including demographics
 o Transaction: Transactions of customers
 o Product Heirarchy: Product information (cateogry, sub category etc...)
+
+
 BUSINESS PROBLEM:
 A Retail store is required to analyze the day-to-day transactions and keep a track of its customers
 spread across various locations along with their purchases/returns across various categories.
+
+
 Create a report and display the below calculated metrics, reports and inferences.
 1. Merge the datasets Customers, Product Hierarchy and Transactions as Customer_Final. Ensure to
 keep all customers who have done transactions with us and select the join type accordingly.
